@@ -1,0 +1,26 @@
+body {
+  background-color: #E6E4E0;
+}
+
+h1 {
+
+  font-family: 'Karla';
+  font-weight: 1900;
+  text-align: center;
+
+}
+
+.topnav {
+  overflow; hidden;
+  text-align: center;
+}
+
+.topnav a {
+  float: center;
+  padding: 17px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 17px;
+  text-decoration: none;
+  color: black;
+}
