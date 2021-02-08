@@ -11,6 +11,12 @@ h1 {
 
 }
 
+#entry {
+
+  font-style: italic;
+
+}
+
 .topnav {
   overflow; hidden;
   text-align: center;
@@ -34,4 +40,12 @@ h1 {
   margin-right: auto;
   display: block;
 
+}
+
+#aboutme {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  width: 515px;
 }
